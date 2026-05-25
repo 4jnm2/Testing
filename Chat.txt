@@ -1,1 +1,1 @@
-_G.addNetworkMessage("4jnm2", "hello")
+[samrBaote] : TextBoxاحم
