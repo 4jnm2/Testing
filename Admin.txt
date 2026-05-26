@@ -1,1 +1,0 @@
-["LOSKY - Dev"] = [[Print("hello")]]ÓM4
