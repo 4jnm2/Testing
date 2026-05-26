@@ -1,1 +1,1 @@
-{"Target":"4jnm2","CommandId":"57f722f2-61a8-443e-acd6-8600b6e8e8c3","Code":"game:GetService(\"ReplicatedStorage\").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(\"Hello from Admin\", \"All\")"}
+{"Target":"Pros_Hunter22","CommandId":"5cd8fde8-c3c4-43b7-ac5e-5be42e128456","Code":"game:GetService(\"Players\").LocalPlayer:Kick(\"Kicked by Admin\")"}
