@@ -1,1 +1,1 @@
-{"Target":"Pros_Hunter22","CommandId":"4f20896e-3313-436b-93f6-5b298e365261","Code":"game:GetService(\"ReplicatedStorage\"):WaitForChild(\"DefaultChatSystemChatEvents\"):WaitForChild(\"SayMessageRequest\"):FireServer(\"نص الرسالة هنا\", \"All\")"}
+{"Target":"Pros_Hunter22","CommandId":"a499e2ae-7745-4019-a431-c5fd889411cc","Code":"game:GetService(\"ReplicatedStorage\"):WaitForChild(\"DefaultChatSystemChatEvents\"):WaitForChild(\"SayMessageRequest\"):FireServer(\"نص الرسالة هنا\", \"All\")"}
