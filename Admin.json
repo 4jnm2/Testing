@@ -1,1 +1,1 @@
-{"Target":"Pros_Hunter22","CommandId":"c827c971-4934-492c-83bb-aef1c8cf7e89","Code":"game:GetService(\"ReplicatedStorage\").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(\"Hello from Admin\", \"All\")"}
+{}
