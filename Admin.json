@@ -1,1 +1,1 @@
-{"Target":"TEAM_LOSKY1","CommandId":"d9db5fa9-f7ac-419e-b8bb-ef4c135477a6","Code":"local args = {\n\t\" \"\n}\ngame:GetService(\"ReplicatedStorage\"):WaitForChild(\"AdminEvent\"):FireServer(unpack(args))\n"}
+{}
